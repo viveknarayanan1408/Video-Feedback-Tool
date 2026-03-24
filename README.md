@@ -55,6 +55,13 @@ https://www.youtube.com/watch?v=GMeqDumv8JY&t=393s
 
 ---
 
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/cd8e121d-4d9a-4552-951e-8cf1050e70fc
+
+
+---
+
 ## 🛠 Tech Stack
 
 * Frontend: (React / HTML / JS)
