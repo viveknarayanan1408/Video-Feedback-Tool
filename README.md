@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/status-active-success)
+![License](https://img.shields.io/badge/license-MIT-blue)
 # 🎬 Video Feedback Tool
 
 Add **timestamped feedback to any video using just a link** — including **YouTube videos**.
