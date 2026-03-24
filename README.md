@@ -1,57 +1,16 @@
 ![Status](https://img.shields.io/badge/status-active-success)
-![License](https://img.shields.io/badge/license-MIT-blue)
-# 🎬 Video Feedback Tool
+![Made With](https://img.shields.io/badge/made%20with-JavaScript-blue)
 
-Add **timestamped feedback to any video using just a link** — including **YouTube videos**.
+# 🎬 VidNote — Timestamped Video Feedback Tool
 
-🔗 **Live Demo:**
-https://asset-manager--VivekNarayanan1.replit.app
+Add precise, timestamped feedback to any video — including **YouTube** — using just a link.
 
 ---
 
-## ✨ Features
+## 🚀 Live Demo
 
-* ▶️ Load and play a video from a public URL
-* 🎥 Supports **YouTube links out of the box**
-* 📊 Interactive timeline/progress bar
-* 💬 Add comments tied to exact timestamps
-* ⏱️ Jump to specific moments by clicking comments
-
----
-
-## 🔗 Supported Video Sources
-
-* ✅ YouTube videos
-* ✅ Direct public video URLs (MP4, etc.)
-
----
-
-## 🚀 How It Works
-
-1. Paste a video URL (YouTube or direct link)
-2. Play the video
-3. Add feedback at any timestamp
-4. Click comments to navigate instantly
-
----
-
-## 🧪 Example
-
-Try it with a YouTube video:
-
-1. Copy any YouTube link
-2. Paste it into the tool
-3. Start adding timestamped feedback
-
-Example:
-https://www.youtube.com/watch?v=GMeqDumv8JY&t=393s
-
----
-
-## 📸 Screenshots
-
-<img width="1920" height="1032" alt="Video Feedback Tool" src="https://github.com/user-attachments/assets/69a783c1-c87b-46bc-8954-5576b2e57040" />
-
+🔗 https://asset-manager--VivekNarayanan1.replit.app
+💡 Tip: Bookmark it for quick access
 
 ---
 
@@ -59,60 +18,85 @@ https://www.youtube.com/watch?v=GMeqDumv8JY&t=393s
 
 https://github.com/user-attachments/assets/cd8e121d-4d9a-4552-951e-8cf1050e70fc
 
+---
+
+## 📸 Screenshot
+
+<img width="1920" height="1032" alt="Video Feedback Tool" src="https://github.com/user-attachments/assets/69a783c1-c87b-46bc-8954-5576b2e57040" />
 
 ---
 
-## 🛠 Tech Stack
+## ✨ What It Does
 
-* Frontend: (React / HTML / JS)
-* Hosting: Replit
-
----
-
-## 💡 Use Cases
-
-* 🎓 Educators giving feedback on lectures
-* 🎬 Video editors reviewing content
-* 👩‍💻 Teams collaborating asynchronously
-* 📢 Product demos and walkthrough reviews
+* Paste any video link (YouTube or direct URL)
+* Play the video inside the app
+* Add comments tied to exact timestamps
+* Click comments to jump to that moment instantly
 
 ---
 
-## 📦 Installation (Optional)
+## 🧠 The Problem
 
-Run locally:
+Giving feedback on videos is surprisingly inefficient:
 
-```bash
-git clone https://github.com/YOUR_USERNAME/video-feedback-tool.git
-cd video-feedback-tool
-npm install
-npm start
-```
+* Feedback is often vague (“around 2:30…”)
+* No direct connection between comments and video moments
+* Reviewing requires constant manual scrubbing
 
 ---
 
-## 🤝 Contributing
+## 💡 The Solution
 
-Contributions are welcome!
-Feel free to open issues or submit pull requests.
+**VidNote** turns video feedback into a structured, interactive experience:
+
+* Comments are **anchored to timestamps**
+* Navigation is **instant and precise**
+* Works with **existing video links (no uploads needed)**
 
 ---
 
-## 📄 License
+## ⚙️ Key Highlights
 
-MIT License
+* ⏱️ Timestamp-based comment system
+* 🔁 Bidirectional sync (video ↔ comments)
+* 🎥 Native support for **YouTube + public video URLs**
+* 🧩 Lightweight, no-login, zero setup
+
+---
+
+## 🎯 Use Cases
+
+* 🎓 Educators reviewing recorded lectures
+* 🎬 Video editors collaborating on cuts
+* 👩‍💻 Teams giving async product feedback
+* 📢 Content creators refining videos
+
+---
+
+## 🔗 Supported Sources
+
+* ✅ YouTube
+* ✅ Direct video URLs (MP4, etc.)
+
+---
+
+## 🚧 Challenges & Learnings
+
+* Handling different video sources (YouTube vs direct playback)
+* Synchronizing UI state with video timestamps
+* Designing a frictionless feedback workflow
 
 ---
 
 ## 🔮 Future Improvements
 
-* User authentication
-* Save comments to a database
-* Shareable feedback sessions
+* Save and share feedback sessions
+* Multi-user collaboration
 * Support for more platforms (Vimeo, etc.)
+* Export feedback as structured notes
 
 ---
 
 ## 🙌 Author
 
-Created by Vivek Narayanan
+Built by Vivek Narayanan
