@@ -44,7 +44,7 @@ Try it with a YouTube video:
 3. Start adding timestamped feedback
 
 Example:
-[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=GMeqDumv8JY)
+https://www.youtube.com/watch?v=GMeqDumv8JY&t=393s
 
 ---
 
